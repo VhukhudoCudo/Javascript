@@ -1,8 +1,10 @@
 "use strict"
 
 
-let myName = ("Vhukhudo");
-//console.log(myName);
+let myName =prompt ("Name");
+alert("I am a CA with lots of money");
+console.log(myName);
+ 
 
 
 
